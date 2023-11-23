@@ -2,6 +2,10 @@
 
 
 
+# Telegram Media Forwarder
+
+Forward medias from other groups to your group.
+
 ## Setup Instructions
 
 
